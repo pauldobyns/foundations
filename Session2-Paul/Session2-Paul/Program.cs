@@ -6,7 +6,7 @@ class MyLittleProject
 {
     static void Main()
     {
-        Console.WriteLine("All your base are belong to us!!");
+        Console.WriteLine("Hello World!");
 
         Console.ReadLine();
     }
