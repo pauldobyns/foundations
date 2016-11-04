@@ -20,7 +20,8 @@ class BankAccount
     // create the withdrawal function
     public void Withdrawal(decimal WithAmt) 
     {
-        balance = balance - WithAmt;
+        balance = 
+            balance - WithAmt;
     }
 
     //create an accessing function to find what your current balance is
