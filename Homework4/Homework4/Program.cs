@@ -26,7 +26,7 @@ namespace Homework4
                 //calculate factorial
                 Result = Result * i;
                 //write result
-                Console.Write("{0,-10}!", )
+                Console.WriteLine("{0}! = {1, 10}", i, Result);
                 //Console.WriteLine("{0}! = {1}", i, Result);
                 //break loop if i > InputInt
                 if (i > InputInt)
